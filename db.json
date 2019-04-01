@@ -2,27 +2,27 @@
   "events": [
     {
       "id": 0,
-      "name": "Marie Compton",
+      "name": "Chess Night",
       "time": "1:45 PM"
     },
     {
       "id": 1,
-      "name": "Katherine Sykes",
+      "name": "Outing",
       "time": "3:30 PM"
     },
     {
       "id": 2,
-      "name": "Wright Graham",
+      "name": "Movie Night",
       "time": "5:00 PM"
     },
     {
       "id": 3,
-      "name": "Rosetta Fisher",
+      "name": "Spinning Class",
       "time": "7:00 PM"
     },
     {
       "id": 4,
-      "name": "Beth Flowers",
+      "name": "Dance Class",
       "time": "9:30 PM"
     }
   ]
